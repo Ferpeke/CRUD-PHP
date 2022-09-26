@@ -3,7 +3,7 @@
 
 ### A este sistema le falta el archivo de *conexion.php* el cual les dejaré instrucciones para que puedan usar el sistema sin problemas.
 
-1. Destro de la carpeta `app` creen un archivo nuevo llamadp *conexcion.php* y dentro peguen lo siguente:
+1. Dentro de la carpeta `app` creen un archivo nuevo llamadp *conexcion.php* y dentro peguen lo siguente:
 
 `
     <?php
